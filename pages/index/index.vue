@@ -1,6 +1,7 @@
 <template>
 	<view class="content">
-		
+		<view class="">Hello World</view>
+		<view class="">Hello World</view>
 	</view>
 </template>
 
